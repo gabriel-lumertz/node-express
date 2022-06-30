@@ -1,0 +1,27 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "api com express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-lumertz/node-express.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "express"
+  ],
+  "author": "Gabriel Lumertz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-lumertz/node-express/issues"
+  },
+  "homepage": "https://github.com/gabriel-lumertz/node-express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
